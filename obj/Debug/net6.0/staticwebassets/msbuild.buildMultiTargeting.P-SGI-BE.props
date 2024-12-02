@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\P-SGI-BE.props" />
+</Project>
